@@ -12,7 +12,7 @@ Aplikasi web sederhana berbasis Flask yang dirancang untuk mengumpulkan metadata
 ├── requirements.txt     # Dependencies Python
 
 └── templates/
-    └── index.html       # (opsional) Frontend form, jika tersedia
+    └── index.html       # (opsional) Frontend form
 
 # ⚙️ Instalasi
 Repositori klon :
