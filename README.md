@@ -17,8 +17,6 @@ Aplikasi web sederhana berbasis Flask yang dirancang untuk mengumpulkan metadata
 # ⚙️ Instalasi
 Repositori klon :
 
-Sunting
-
 git clone https://github.com/username/x9x-logger.git
 
 cd x9x-logger
