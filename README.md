@@ -1,24 +1,24 @@
-🛰️ Pencatat Target X9x
-Aplikasi web sederhana berbasis Flask yang dirancang untuk mengumpulkan metadata perangkat dan koneksi serta mengirimkannya ke bot Telegram yang dikonfigurasi. Termasuk unggahan foto opsional (misalnya, swafoto) dari sisi klien.
+# 🛰️ Pencatat Target X9x
+# Aplikasi web sederhana berbasis Flask yang dirancang untuk mengumpulkan metadata perangkat dan koneksi serta mengirimkannya ke bot Telegram yang dikonfigurasi.     Termasuk unggahan foto opsional (misalnya, swafoto) dari sisi klien.
 
-⚠️ Hanya untuk keperluan edukasi dan pengujian laboratorium yang terkontrol. Penggunaan tanpa izin dilarang.
+# ⚠️ Hanya untuk keperluan edukasi dan pengujian laboratorium yang terkontrol. Penggunaan tanpa izin dilarang.
 
-📂 Struktur Proyek
-pesta
+# 📂 Struktur Proyek
+# pesta
 
-Menyalin
+# Menyalin
 
-Sunting
-.
-├── app.py               # Flask server logic
-├── config.txt           # Token & chat ID konfigurasi Telegram
-├── requirements.txt     # Dependencies Python
-└── templates/
+# Sunting
+# .
+# ├── app.py               # Flask server logic
+# ├── config.txt           # Token & chat ID konfigurasi Telegram
+# ├── requirements.txt     # Dependencies Python
+# └── templates/
     └── index.html       # (opsional) Frontend form, jika tersedia
-⚙️ Instalasi
-Repositori klon :
+# ⚙️ Instalasi
+# Repositori klon :
 
-pesta
+# pesta
 
 Menyalin
 
