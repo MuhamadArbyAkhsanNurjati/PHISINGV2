@@ -69,3 +69,14 @@ CONTOH :
 
 ┃ ⌬ Waktu    : 2025-07-06 13:45:00
 ┗◪
+
+## 📞 Support
+
+PUNYA MASALAH ?
+- 📧Gmail
+[Contact us](https://mail.google.com/mail/?view=cm&to=arbyakhsan.n@gmail.com&su=Tredict%20Website%20-%20Support&body=Hello%20Tredict%20Team,%0D%0A%0D%0AI%20need%20help%20with...)
+
+---
+**Made X9X**
+🚀
+
